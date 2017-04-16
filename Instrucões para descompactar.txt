@@ -1,0 +1,17 @@
+Descompctar os arquivos na seguinte estrutura
+
+Crear as seguintes pastas: 
+     "C:\DesafioVagasCom\" 
+     "C:\DesafioVagasCom\Vagas NET\"
+     "C:\DesafioVagasCom\Vagas NET\packages\"
+
+C:\DesafioVagasCom\
+     Descompactar "DesafioVagasCom.zip"
+
+C:\DesafioVagasCom\Vagas NET\
+     Descompactar "Vagas NET.zip"
+
+C:\DesafioVagasCom\Vagas NET\packages\
+     Descompactar "packages_1-3.zip"
+                  "packages_2-3.zip"
+                  "packages_3-3.zip"
